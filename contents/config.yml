@@ -1,0 +1,22 @@
+title: Yujie Yao | Academic Homepage
+top-section-bg-text: Accounting and Corporate Governance
+backgrounds:
+  - static/assets/background/hec-paris-campus-hero.jpg
+background-interval-ms: 7000
+background-overlay: 0.48
+copyright-text: '&copy; Yujie Yao 2026. All Rights Reserved.'
+github-link:
+  text: GitHub
+  href: https://github.com/YujieYSoul
+license-link:
+  text: License
+  href: https://github.com/YujieYSoul/YujieYSoul.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: ABOUT
+    title: Yujie Yao
+    href: '#page-top' # Default to '#<id>' if not specified
+  - id: cv
+    nav: CV
+    href: https://drive.google.com/file/d/1OeWuxK2QDFglbiRimHDHhrr9lgNjJnje/view?usp=drive_link
+    content: false
