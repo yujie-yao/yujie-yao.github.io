@@ -1,0 +1,22 @@
+title: Yujie Yao | Academic Homepage
+top-section-bg-text: 'Accounting &amp; Corporate Governance'
+backgrounds:
+  - static/assets/background/rainbow-campus.jpg
+background-interval-ms: 7000
+background-overlay: 0
+copyright-text: '&copy; Yujie Yao 2026. All Rights Reserved.'
+github-link:
+  text: GitHub
+  href: https://github.com/yujie-yao
+license-link:
+  text: License
+  href: https://github.com/yujie-yao/yujie-yao.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: ABOUT
+    title: Yujie Yao
+    href: '#page-top' # Default to '#<id>' if not specified
+  - id: research
+    nav: RESEARCH
+    title: Research 📚
+    page: research.html

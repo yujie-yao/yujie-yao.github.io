@@ -1,0 +1,11 @@
+*.DS_Store
+
+.superpowers/
+
+# Private source materials kept locally but not published
+/CV_HECParis_YujieYao.pdf
+/Head Photo_Yujie
+/Introduction_Yujie.PNG
+/hec photo.jpg
+/screenshot_full.png
+/tests/
